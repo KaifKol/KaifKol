@@ -1,8 +1,17 @@
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+
 <h1 align="center">
  🤙 Hi, I'm kokakol
   <a href="https://t.me/kaifkol" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
   </a>
+
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=kaifkol&data=followers,repositories,stars,commits&theme=darkmode"></a>
+
+
+### ☎ Contact
+* Telegram - kaifkol
+* Discord - kaifkol
 
 ### 🌍Languages
 *   Ukrainian: Native
@@ -21,7 +30,7 @@
         <br><h4>Python</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.lua.org/" target="_blank"><img alt="Lua" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/launguages/lua.svg" /></a>
+        <a href="https://www.lua.org/" target="_blank"><img alt="Lua" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/languages/lua.svg" /></a>
         <br><h4>Lua</h4>
     </td>
     <td align="center" width="90">
@@ -59,3 +68,5 @@
     </td>
 </table>
 
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
