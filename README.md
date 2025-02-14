@@ -17,11 +17,11 @@
 ### Languages
 <table>
     <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/languages/python.svg" /></a>
         <br><h4>Python</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.lua.org/" target="_blank"><img alt="Lua" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/main/lua.svg" /></a>
+        <a href="https://www.lua.org/" target="_blank"><img alt="Lua" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/launguages/lua.svg" /></a>
         <br><h4>Lua</h4>
     </td>
     <td align="center" width="90">
@@ -33,7 +33,7 @@
 ### Libraries
 <table>
     <td align="center" width="90">
-        <a href="https://disnake.dev/" target="_blank"><img alt="Disnake width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/main/disnake.png" /></a>
+        <a href="https://disnake.dev/" target="_blank"><img alt="Disnake width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/libraries/disnake.png" /></a>
         <br><h4>Disnake</h4>
     </td>
 
@@ -46,7 +46,7 @@
         <br><h4>Git</h4>
     </td>
     <td align="center" width="90">
-        <img alt="GitHub" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
+        <img alt="GitHub" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/tools/Github.gif" />
         <br><h4>GitHub</h4>
     </td>
     <td align="center" width="90">
@@ -54,7 +54,7 @@
         <br><h4>VS Code</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/main/linux.svg" />
+        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/tools/linux.svg" />
         <br><h4>Linux</h4>
     </td>
 </table>
