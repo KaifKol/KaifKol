@@ -17,11 +17,11 @@
 *   Ukrainian: Native
 *   Russian: Native
 
+<br>
+<br>
+<hr>
 
-
-<h1 align="center">
-
-<h1> 💻 My Skill Sets
+<h1> 💻 My Skill Sets <img src = "https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/others/coding.png" width = 32px></a> </h1>
 
 ### Languages
 <table>
