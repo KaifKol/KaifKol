@@ -7,7 +7,6 @@
 
 
 ### ☎ Contact
-* Telegram - kaifkol
 * Discord - kaifkol
 
 ### 🌍Languages
