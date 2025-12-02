@@ -37,10 +37,10 @@
 
 ### Libraries
 <table>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
         <a href="https://disnake.dev/" target="_blank"><img alt="Disnake width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/KaifKol/KaifKol/refs/heads/assets/libraries/disnake.png" /></a>
         <br><h4>Disnake</h4>
-    </td>
+    </td> -->
 
 </table>
 
