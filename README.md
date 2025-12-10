@@ -1,4 +1,6 @@
-<img src="assets/banner.gif" width="700">
+<img src="https://raw.githubusercontent.com/KaifKol/KaifKol/main/assets/banner.gif" width="1000">
+
+<br>
 
 <div align="center">
     <a href="https://discordapp.com/users/556799544461885441">
