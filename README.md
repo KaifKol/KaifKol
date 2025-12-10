@@ -1,5 +1,4 @@
-
-![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/KaifKol)
+<img src="assets/banner.gif" width="700">
 
 <div align="center">
     <a href="https://discordapp.com/users/556799544461885441">
