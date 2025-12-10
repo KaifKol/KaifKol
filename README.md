@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KaifKol/KaifKol/main/assets/banner.gif" width="1000">
+<img src="https://media1.tenor.com/m/AXYSMOzS4RUAAAAC/graveyard-grim.gif" width="1000">
 
 <br>
 
