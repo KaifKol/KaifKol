@@ -2,6 +2,10 @@
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaifKol&color=grey" alt="Profile views" />
+</p>
+
 <!-- <div align="center">
     <a href="https://discordapp.com/users/556799544461885441">
         <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209">
