@@ -1,6 +1,5 @@
 <img src="https://media1.tenor.com/m/AXYSMOzS4RUAAAAC/graveyard-grim.gif" width="1000">
 
-<br>
 
 <p align="center">
   <a href="https://discord.com/users/556799544461885441"><img src="https://img.shields.io/badge/kaifkol-1a1a1a?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
