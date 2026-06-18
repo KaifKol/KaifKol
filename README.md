@@ -3,9 +3,6 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaifKol&color=grey" alt="Profile views" />
-</p>
-<p align="center">
   <a href="https://discord.com/users/556799544461885441"><img src="https://img.shields.io/badge/kaifkol-1a1a1a?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://t.me/KaifKol"><img src="https://img.shields.io/badge/@KaifKol-1a1a1a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
